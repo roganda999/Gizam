@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x849F4FD3C30db8E043C98EB73d6f6aE0912Eb9fD",
+  "SCAN_LINK": "https://polygonscan.com/address/0x849f4fd3c30db8e043c98eb73d6f6ae0912eb9fd",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Sect Of Giza",
+  "SYMBOL": "GIZA",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 2850000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sect-of-giza",
+  "SHOW_BACKGROUND": true
+}
